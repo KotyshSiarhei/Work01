@@ -11,8 +11,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:textSize="42sp" />
+        android:text="Siarhei!"
+        android:textSize="48sp" />
 
     <Button
         android:id="@+id/button"
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:fontFamily="cursive"
+        android:fontFamily="casual"
         android:hint="name"
         android:inputType="textPersonName"
         android:text="Name"
@@ -55,11 +55,6 @@
             android:layout_height="wrap_content"
             android:text="RadioButton1" />
 
-        <RadioButton
-            android:id="@+id/radioButton2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="RadioButton2" />
     </RadioGroup>
 
 </LinearLayout>
